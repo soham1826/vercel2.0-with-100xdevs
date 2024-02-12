@@ -3,8 +3,8 @@
 Vercel 2.0 is a basic implementation of a deployment service designed to streamline the process of deploying React projects. It automates the process of fetching source code from a GitHub repository, building it, and deploying the resulting files to an AWS S3 bucket.
 this project is madeby following code along session with Harkirat singh on youtube
 for steps and video use below links
--[YouTube video](#https://youtu.be/c8_tafixiAs?si=zGuIrt2AXSJykCzB)
--[Resource to Follow steps](#https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0hvNzNxdDdsRkxqZ1VPS2QybDNtSUx6ZmtsUXxBQ3Jtc0ttREpJU1d4aFQxZTRGSC1hU0tYMEJIR25Jc2JCSFN2QXdtRmRNcktsUFllQy1URWJDcHh2YTJUaERSTUJkYTlRZlM0OFQyODB4ak1ZcnBvWkl5bFM5SFVFMGtOMzJRZmw1NW1lV0dnMG1IaWFnZlRXRQ&q=https%3A%2F%2Fprojects.100xdevs.com%2Ftracks%2FZSQI8YNE0iL6sT1hJpts%2Fvercel-1&v=c8_tafixiAs)
+-[YouTube video](https://youtu.be/c8_tafixiAs?si=zGuIrt2AXSJykCzB)
+-[Resource to Follow steps](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0hvNzNxdDdsRkxqZ1VPS2QybDNtSUx6ZmtsUXxBQ3Jtc0ttREpJU1d4aFQxZTRGSC1hU0tYMEJIR25Jc2JCSFN2QXdtRmRNcktsUFllQy1URWJDcHh2YTJUaERSTUJkYTlRZlM0OFQyODB4ak1ZcnBvWkl5bFM5SFVFMGtOMzJRZmw1NW1lV0dnMG1IaWFnZlRXRQ&q=https%3A%2F%2Fprojects.100xdevs.com%2Ftracks%2FZSQI8YNE0iL6sT1hJpts%2Fvercel-1&v=c8_tafixiAs)
 ## Table of Contents
 
 - [Overview](#overview)
@@ -68,6 +68,4 @@ To use Vercel 2.0, follow these steps:
 
 Contributions to Vercel 2.0 are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request on GitHub.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
