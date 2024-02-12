@@ -1,6 +1,4 @@
 "use strict";
-//access-key:AKIA4MTWL5J2RABD7QDF;
-//seceret-accesskey:eIlSWgvKiFNFDPCkbhfc1017R1XFnnwLotO3qIqH
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     var desc = Object.getOwnPropertyDescriptor(m, k);
@@ -52,7 +50,6 @@ subscriber.connect();
 const app = (0, express_1.default)();
 app.use((0, cors_1.default)());
 app.use(express_1.default.json());
-// uploadFile("soham/App.css","E:/Soham files/vercel2.0/dist/output/8pr6g/src/App.css");
 app.post("/deploy", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const repoUrl = req.body.repoUrl;
     console.log(repoUrl);

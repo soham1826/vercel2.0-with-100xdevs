@@ -39,11 +39,9 @@ exports.downloadS3Folder = void 0;
 const aws_sdk_1 = require("aws-sdk");
 const fs_1 = __importDefault(require("fs"));
 const path = __importStar(require("path"));
-//access-key:AKIA4MTWL5J2RABD7QDF;
-//seceret-accesskey:eIlSWgvKiFNFDPCkbhfc1017R1XFnnwLotO3qIqH
 const s3 = new aws_sdk_1.S3({
-    accessKeyId: "AKIA4MTWL5J2RABD7QDF",
-    secretAccessKey: "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"
+    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
 });
 const downloadS3Folder = (prefix) => __awaiter(void 0, void 0, void 0, function* () {
     var _a;

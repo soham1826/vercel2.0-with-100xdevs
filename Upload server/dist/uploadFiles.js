@@ -18,8 +18,8 @@ const fs_1 = __importDefault(require("fs"));
 require("aws-sdk/lib/maintenance_mode_message").suppress = true;
 // replace with your own credentials
 const s3 = new aws_sdk_1.S3({
-    accessKeyId: "AKIA4MTWL5J2RABD7QDF",
-    secretAccessKey: "eIlSWgvKiFNFDPCkbhfc1017R1XFnnwLotO3qIqH",
+    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
+    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
 });
 // fileName => output/12312/src/App.jsx
 // filePath => /Users/harkiratsingh/vercel/dist/output/12312/src/App.jsx
