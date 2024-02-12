@@ -4,7 +4,7 @@ Vercel 2.0 is a basic implementation of a deployment service designed to streaml
 this project is madeby following code along session with Harkirat singh on youtube
 for steps and video links
 [YouTube video](https://youtu.be/c8_tafixiAs?si=zGuIrt2AXSJykCzB)
-[Resource to Follow steps](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0hvNzNxdDdsRkxqZ1VPS2QybDNtSUx6ZmtsUXxBQ3Jtc0ttREpJU1d4aFQxZTRGSC1hU0tYMEJIR25Jc2JCSFN2QXdtRmRNcktsUFllQy1URWJDcHh2YTJUaERSTUJkYTlRZlM0OFQyODB4ak1ZcnBvWkl5bFM5SFVFMGtOMzJRZmw1NW1lV0dnMG1IaWFnZlRXRQ&q=https%3A%2F%2Fprojects.100xdevs.com%2Ftracks%2FZSQI8YNE0iL6sT1hJpts%2Fvercel-1&v=c8_tafixiAs)
+[Resource to Follow steps](https://projects.100xdevs.com/tracks/ZSQI8YNE0iL6sT1hJpts/vercel-1)
 ## Table of Contents
 
 - [Overview](#overview)
