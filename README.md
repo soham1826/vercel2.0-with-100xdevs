@@ -15,7 +15,6 @@ for steps and video links
   - [3. Request Handler](#3-request-handler)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
