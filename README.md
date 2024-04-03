@@ -1,6 +1,6 @@
-# Vercel 2.0
+# FastPloy
 
-Vercel 2.0 is a basic implementation of a deployment service designed to streamline the process of deploying React projects. It automates the process of fetching source code from a GitHub repository, building it, and deploying the resulting files to an AWS S3 bucket.
+FastPloy is a basic implementation of a deployment service designed to streamline the process of deploying React projects. It automates the process of fetching source code from a GitHub repository, building it, and deploying the resulting files to an AWS S3 bucket.
 ## Table of Contents
 
 - [Overview](#overview)
@@ -14,7 +14,7 @@ Vercel 2.0 is a basic implementation of a deployment service designed to streaml
 
 ## Overview
 
-The Vercel 2.0 project simplifies the deployment process for React projects by automating the steps involved in fetching the source code, building it, and deploying the resulting files to a cloud storage service. It consists of three main components: the Upload Server, the Deploy Server, and the Request Handler.
+The FastPloy project simplifies the deployment process for React projects by automating the steps involved in fetching the source code, building it, and deploying the resulting files to a cloud storage service. It consists of three main components: the Upload Server, the Deploy Server, and the Request Handler.
 
 ## Folder Structure
 
@@ -51,7 +51,7 @@ The Request Handler component handles requests made by browsers to access the de
 
 ## Usage
 
-To use Vercel 2.0, follow these steps:
+To use FastPloy, follow these steps:
 
 1. Clone the repository locally.
 2. Configure AWS S3 credentials and Redis connection settings as required.
@@ -61,6 +61,6 @@ To use Vercel 2.0, follow these steps:
 
 ## Contributing
 
-Contributions to Vercel 2.0 are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request on GitHub.
+Contributions to FastPloy are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request on GitHub.
 
 
