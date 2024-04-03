@@ -1,10 +1,6 @@
 # Vercel 2.0
 
 Vercel 2.0 is a basic implementation of a deployment service designed to streamline the process of deploying React projects. It automates the process of fetching source code from a GitHub repository, building it, and deploying the resulting files to an AWS S3 bucket.
-this project is madeby following code along session with Harkirat singh on youtube
-for steps and video links
-[YouTube video](https://youtu.be/c8_tafixiAs?si=zGuIrt2AXSJykCzB)
-[Resource to Follow steps](https://projects.100xdevs.com/tracks/ZSQI8YNE0iL6sT1hJpts/vercel-1)
 ## Table of Contents
 
 - [Overview](#overview)
